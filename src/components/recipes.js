@@ -2,6 +2,8 @@ import { Image, Pressable, Text, View } from 'react-native'
 import { heightPercentageToDP as hp } from "react-native-responsive-screen"
 import MasonryList from '@react-native-seoul/masonry-list';
 import Animated, { FadeInDown, } from "react-native-reanimated"
+import Loading from "./loading";
+import { CachedImage } from "../helpers/images";
 
 export default function Recipes({ meal }) {
   return (
@@ -11,7 +13,7 @@ export default function Recipes({ meal }) {
         className={ "font-semibold text-neutral-600 capitalize" }>recipes </Text>
       <View>
 
-        { meal.length === 0 ? null : (
+        { meal.length === 0 ? <Loading size={ "large" } className={ "mt-20" }/> : (
           <MasonryList
             data={ meal }
             keyExtractor={ (item) => item.idMeal }
@@ -49,6 +51,7 @@ const RecipeCard = ({ item, index, navigation }) => {
           style={ { width: '100%', height: index % 3 == 0 ? hp(25) : hp(35), borderRadius: 35 } }
           className="bg-black/5"
         />
+
         <Text style={ { fontSize: hp(1.5) } } className="font-semibold ml-2 text-neutral-600">
           {
             item.strMeal.length > 20 ? item.strMeal.slice(0, 20) + '...' : item.strMeal
