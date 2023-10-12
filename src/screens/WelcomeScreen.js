@@ -1,6 +1,6 @@
 import { Image, StatusBar, Text, View, } from 'react-native'
 import React, { useEffect } from 'react'
-import { widthPercentageToDP as wp, heightPercentageToDP as hp } from "react-native-responsive-screen"
+import {  heightPercentageToDP as hp } from "react-native-responsive-screen"
 
 import Animated, { useSharedValue, withSpring } from "react-native-reanimated"
 import { useNavigation } from '@react-navigation/native'
@@ -9,7 +9,6 @@ export default function WelcomeScreen ()
 {
   const ring1padding = useSharedValue( 0 )
   const ring2padding = useSharedValue( 0 )
-
   const navigation = useNavigation()
 
   useEffect( () =>
