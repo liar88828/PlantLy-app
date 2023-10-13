@@ -1,13 +1,13 @@
 {
   "expo": {
-    "name": "food app",
+    "name": "Toga App",
     "slug": "ReactNativeUI",
     "version": "1.0.0",
     "orientation": "portrait",
-    "icon": "./assets/icon.png",
+    "icon": "./assets/images/logo.png",
     "userInterfaceStyle": "light",
     "splash": {
-      "image": "./assets/images/welcome.png",
+      "image": "./assets/images/logo.png",
       "resizeMode": "contain",
       "backgroundColor": "#ffffff"
     },
@@ -19,13 +19,13 @@
     },
     "android": {
       "adaptiveIcon": {
-        "foregroundImage": "./assets/images/welcome.png",
+        "foregroundImage": "./assets/images/logo.png",
         "backgroundColor": "#ffffff"
       },
       "package": "com.liar780.ReactNativeUI"
     },
     "web": {
-      "favicon": "./assets/images/welcome.png"
+      "favicon": "./assets/images/logo.png"
     },
     "extra": {
       "eas": {

@@ -1,0 +1,240 @@
+{
+  "dataTumbuhan": [
+    {
+      "id": "18022dd5-effa-401c-8d8d-3f0143d01089",
+      "name": "Jahe Merah",
+      "family":"Zingiberaceae",
+      "panen": "3 – 4",
+      "suhu": "20-35",
+      "berat": "40-60",
+      "harga": "5.000",
+      "img": "https://blog-static.mamikos.com/wp-content/uploads/2020/07/jahe-merah-760x428.jpg",
+      "ket": "Jahe merah adalah salah satu dari berbagai jenis jahe yang sering sekali digunakan, baik itu bumbu dapur, maupun obat. Untuk jahe merah sendiri memiliki rasa yang lebih pedas dan tajam sehingga sering digunakan sebagai obat untuk menghangatkan badan.",
+      "area": "rumah",
+      "proses": {
+        "menanam": [
+          "emburkan tanah.",
+          "Buat bedengan selebar 1 meter. Sesuaikan panjang bedengan sesuai dengan luas lahan. Atur tinggi sekitar 25-30 centimeter.",
+          "Jangan lupa antar bedengan tetap diberi jarak 50 centimeter.",
+          "Beri pupuk kandang sebanyak 10 kilogram. Ukuran ini untuk lahan/bedengan seluas 10 meter.",
+          "Aturlah lubang media tanam dengan jarak 25 x 25 cm. Atur kedalaman sekitar 25-30 centimeter.",
+          "Lalu beri pupuk kandang ke dalam lubang untuk media tanam sebanyak 0.5 kilogram saja.",
+          "Diamkan lahan/bedengan yang sudah diberi pupuk selama satu minggu sebelum ditanami."
+        ],
+        "memasak": [
+          "Campur jahe, daun pandan, serai, air, dan gula pasir.",
+          "Rebus campuran jahe di atas api sedang hingga mendidih dan gula larut.",
+          "Kecilkan api, aduk-aduk hingga kadar airnya berkurang ½ bagian. Angkat dan saring.",
+          "Tuang sari kelapa dan pacar cina dalam gelas saji. Tuang campuran jahe. Sajikan dan nikmati selagi masih hangat."
+        ],
+        "manfaat": [
+          "Meredakan batuk dan sakit tenggorokan.",
+          "Meredakan sakit kepala",
+          "Mengatasi rematik.",
+          "Menurunkan kadar kolesterol.",
+          "Meningkatkan sistem kekebalan tubuh."
+        ]
+      },
+      "yt": "https://www.youtube.com/watch?v=cFYnAiLDrT0"
+    },
+    {
+      "id": "94315ed2-8617-43b8-b9dc-3061852e04fd",
+      "name": "Jeruk Nipis",
+      "family":"",
+      "panen": "",
+      "suhu": "",
+      "berat": "",
+      "harga": "",
+      "img": "https://blog-static.mamikos.com/wp-content/uploads/2020/07/sliced-lime-4022783-760x506.jpg",
+      "ket": "Jeruk nipis mengandung berbagai macam nutrisi yang baik untuk tubuh. Nutrisi tersebut meliputi 22 miligram Kalsium, 12 miligram Fosfor, 68 miligram, Potasium 19,5 miligram, dan Vitamin C yakni sekitar 20-25% dari nilai harian yang direkomendasikan untuk orang dewasa.",
+      "area": "rumah",
+      "proses": {
+        "menanam": [],
+        "memasak": [],
+        "manfaat": []
+      },
+      "yt": ""
+    },
+    {
+      "id": "e9fd6181-680c-4bf4-878a-264a96595036",
+      "name": "Kencur",
+      "family":"",
+      "panen": "",
+      "suhu": "",
+      "berat": "",
+      "harga": "",
+      "img": "https://blog-static.mamikos.com/wp-content/uploads/2020/07/kencur-klikdokter-com-760x428.jpg",
+      "ket": "Kencur masuk dalam kelompok tanaman jenis empon-empon yang tumbuh subur di daerah dataran rendah. Kencur memiliki daging buah yang lunak, berwarna putih dan tidak berserat.",
+      "area": "rumah",
+      "proses": {
+        "menanam": [],
+        "memasak": [],
+        "manfaat": []
+      },
+      "yt": ""
+    },
+    {
+      "id": "083c8402-8bd9-4004-b2b3-d784e70fdb7b",
+      "name": "Kunyit",
+      "family":"",
+      "panen": "",
+      "suhu": "",
+      "berat": "",
+      "harga": "",
+      "img": "https://blog-static.mamikos.com/wp-content/uploads/2020/07/pepper-525696_1280-760x503.jpg",
+      "ket": "Lada adalah jenis tanaman herbal obat alami keluarga (TOGA) tahunan yang tumbuh memanjat. Batangnya berwarna hijau kotor, berbentuk bulat, beruas dan memiliki akar pelekat.",
+      "area": "rumah",
+      "proses": {
+        "menanam": [],
+        "memasak": [],
+        "manfaat": []
+      },
+      "yt": ""
+    },
+    {
+      "id": "1baefce0-5010-4737-b968-8cf172e63462",
+      "name": "Lidah Buaya",
+      "family":"",
+      "panen": "",
+      "suhu": "",
+      "berat": "",
+      "harga": "",
+      "img": "https://blog-static.mamikos.com/wp-content/uploads/2020/07/aloevera-4603530_1280-760x506.jpg",
+      "ket": "Lidah buaya atau yang juga dikenal sebagai aloe vera memang banyak tumbuh di kawasan Afrika bagian utara dan Hindia Barat. Lidah buaya banyak ditanam didalam pot di pekarangan rumah sebagai tanaman hias.",
+      "area": "rumah",
+      "proses": {
+        "menanam": [],
+        "memasak": [],
+        "manfaat": []
+      },
+      "yt": ""
+    },
+    {
+      "id": "da7751f9-9bf4-4ac9-8bf9-649e3bb58018",
+      "name": "Lengkuas",
+      "family":"",
+      "panen": "",
+      "suhu": "",
+      "berat": "",
+      "harga": "",
+      "img": "https://blog-static.mamikos.com/wp-content/uploads/2020/07/galangal-3270069_1280-760x664.jpg",
+      "ket": "Lengkuas bisa ditanam di daerah dengan ketinggian 1-1.200 meter di atas permukaan laut. Orang Sunda biasa menyebutnya dengan nama laja. Lengkuas juga menjadi jenis tanaman herbal obat alami keluarga (TOGA) yang perlu kamu ketahui manfaatnya.",
+      "area": "rumah",
+      "proses": {
+        "menanam": [],
+        "memasak": [],
+        "manfaat": []
+      },
+      "yt": ""
+    },
+    {
+      "id": "8eb80db0-6c9a-470c-a35a-14bd6decd8a8",
+      "name": "Bakung ",
+      "family":"",
+      "panen": "",
+      "suhu": "",
+      "berat": "",
+      "harga": "",
+      "img": "https://blog-static.mamikos.com/wp-content/uploads/2020/07/Bunga-Bakung-tanamania-dot-com-760x570.jpg",
+      "ket": "Tanaman bakung adalah jenis tanaman herbal obat alami keluarga (TOGA) sekaligus berfungsi juga sebagai tanaman hias. Dimana daun bakung sendiri memiliki manfaat dan khasiat yang ampuh mengatasi beberapa penyakit.",
+      "area": "rumah",
+      "proses": {
+        "menanam": [],
+        "memasak": [],
+        "manfaat": []
+      },
+      "yt": ""
+    },
+    {
+      "id": "0711d760-d644-4db6-8831-7bebaf131622",
+      "name": "Binahong ",
+      "family":"",
+      "panen": "",
+      "suhu": "",
+      "berat": "",
+      "harga": "",
+      "img": "https://blog-static.mamikos.com/wp-content/uploads/2020/07/Daun_Binahong-bukalapak-dot-com-760x570.jpg",
+      "ket": "Binahong merupakan jenis tanaman herbal obat alami keluarga (TOGA) yang sudah dikenal sejak lama dan dipergunakan oleh orang-orang jepang dan korea sebagai obat. Walaupun terkadang naman ini sering disebut benalu karena suka hidup di tanaman lain.",
+      "area": "rumah",
+      "proses": {
+        "menanam": [],
+        "memasak": [],
+        "manfaat": []
+      },
+      "yt": ""
+    },
+    {
+      "id": "b18f1fe7-419a-4ff9-8a10-d946e339ec04",
+      "name": "Pandan Wangi ",
+      "family":"",
+      "panen": "",
+      "suhu": "",
+      "berat": "",
+      "harga": "",
+      "img": "https://blog-static.mamikos.com/wp-content/uploads/2020/07/pandan-wangi-goodnewsfromindonesia-id-760x428.jpg",
+      "ket": "Pandan wangi bisa tumbuh di daerah tropis dan di tempat yang agak lembab dari daerah pantai sampai daerah dengan ketinggian 500 meter di atas permukaan laut. Tinggi tanaman ini dapat mencapai 1-2 meter, panjang daun 40-80 cm dan lebar daun 3-5 cm.",
+      "area": "rumah",
+      "proses": {
+        "menanam": [],
+        "memasak": [],
+        "manfaat": []
+      },
+      "yt": ""
+    },
+    {
+      "id": "65228590-a1da-417f-801c-f41171dacdaa",
+      "name": "Mengkudu",
+      "family":"",
+      "panen": "",
+      "suhu": "",
+      "berat": "",
+      "harga": "",
+      "img": "https://blog-static.mamikos.com/wp-content/uploads/2020/07/fruit-4489628_1280-760x505.jpg",
+      "ket": "Tanaman mengkudu adalah tanaman asli milik Indonesia dari jenis kopi-kopian. Mengkudu dapat tumbuh di dataran rendah sampai dengan ketinggian 1.500 meter di atas permukaan laut. Batang mengkudu tidak begitu besar tapi tingginya bisa mencapai 3-8 meter.",
+      "area": "rumah",
+      "proses": {
+        "menanam": [],
+        "memasak": [],
+        "manfaat": []
+      },
+      "yt": ""
+    },
+    {
+      "id": "20ba0b31-12e7-4f8b-8107-1b97c9b7b425",
+      "name": "Seledri",
+      "family":"",
+      "panen": "",
+      "suhu": "",
+      "berat": "",
+      "harga": "",
+      "img": "https://blog-static.mamikos.com/wp-content/uploads/2022/08/Tanaman-obat-keluarga-seledri-768x576.jpg.webp",
+      "ket": "Dari jenis tanaman obat alami keluarga yang pertama adalah seledri. Tanaman seledri adalah sayuran hijau dan memiliki jumlah kalori yang rendah Daun seledri mengandung sekitar 16 kalori per 100 gram. Daun seledri selain biasa digunakan sebagai penambah aroma masakan, juga bisa digunakan sebagai tanaman obat keluarga lho.Tanaman seledri memiliki beberapa kandungan baik diantaranya vitamin A, vitamin C, vitamin B1 dan zat besi lainnya seperti kalium, mineral dan zat besi.",
+      "area": "rumah",
+      "proses": {
+        "menanam": [],
+        "memasak": [],
+        "manfaat": []
+
+      },
+      "yt": ""
+    },
+    {
+      "id": "301e044b-0621-4947-9592-612128ab9e0b",
+      "name": "Kangkung",
+      "family":"",
+      "panen": "",
+      "suhu": "",
+      "berat": "",
+      "harga": "",
+      "img": "https://blog-static.mamikos.com/wp-content/uploads/2022/08/Kangkung-768x403.jpg.webp",
+      "ket": "Berikutnya dari daftar jenis tanaman herbal obat alami keluarga (TOGA) ada kangkung Kamu mungkin tidak percaya kalau kangkung juga memiliki segudang manfaat yang bisa digunakan sebagai obat. Kangkung adalah jenis sayuran yang mudah ditemukan.",
+      "area": "rumah",
+      "proses": {
+        "menanam": [],
+        "memasak": [],
+        "manfaat": []
+      },
+      "yt": ""
+    }
+  ]
+}

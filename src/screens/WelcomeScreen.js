@@ -21,14 +21,14 @@ export default function WelcomeScreen ()
   }, [] )
 
   return (
-    <View className="flex-1 flex justify-center items-center space-y-10 bg-amber-500 ">
+    <View className="flex-1 flex justify-center items-center space-y-10 bg-green-50 ">
       <StatusBar style={ "light" } />
 
       {/*Logo image with rings */ }
-      <Animated.View className="bg-white/20 rounded-full " style={ { padding: ring2padding } }>
-        <Animated.View className="bg-white/20 rounded-full" style={ { padding: ring1padding } }>
+      <Animated.View className="bg-white rounded-full " style={ { padding: ring2padding } }>
+        <Animated.View className="bg-slate-200 rounded-full" style={ { padding: ring1padding } }>
           <Image
-            source={ require( "../../assets/images/welcome.png" ) }
+            source={ require( "../../assets/images/logo.png" ) }
             style={ { width: hp( 20 ), height: hp( 20 ) } } />
         </Animated.View>
       </Animated.View>
@@ -38,17 +38,16 @@ export default function WelcomeScreen ()
       <View className="flex items-center space-y-2">
         <Text
           style={ { fontSize: hp( 7 ) } }
-          className="font-bold text-white tracking-widest ">
-          Foodys
+          className="font-bold text-slate-700 tracking-widest ">
+          PlantLy
         </Text>
+
         <Text
           style={ { fontSize: hp( 2 ) } }
-          className=" font-medium text-white tracking-widest text-lg ">
-          Food is always right
+          className=" font-medium text-slate-700 tracking-widest text-lg ">
+          Your Health Your Life
         </Text>
-
       </View>
-
     </View>
 
 
